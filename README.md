@@ -22,5 +22,3 @@ In this course, you’ll explore pretraining, the foundational step in training 
 ## 👩‍🏫 About the Instructors
 - 👨‍🏫 **Sung Kim**: CEO of Upstage, bringing extensive expertise in LLM pretraining and optimization.
 - 👩‍🔬 **Lucy Park**: Chief Scientific Officer of Upstage, with a deep background in scientific research and LLM development.
-
-🔗 To enroll in the course or for further information, visit 📚 [deeplearning.ai](https://www.deeplearning.ai/short-courses/).
